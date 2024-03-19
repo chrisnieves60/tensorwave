@@ -13,9 +13,9 @@ A React-based web application, leveraging Next.js for an enhanced development an
 
 Here's a look at the application in action:
 
-![Application Screenshot](readmephotos/Screenshot 2024-03-19 at 12.28.34 PM.png)
-![Application Screenshot](readmephotos/Screenshot 2024-03-19 at 12.28.42 PM.png)
-![Application Screenshot](readmephotos/Screenshot 2024-03-19 at 12.28.47 PM.png)
+![Application Screenshot](readmephotos/screenshot1.png)
+![Application Screenshot](readmephotos/screenshot2.png)
+![Application Screenshot](readmephotos/screenshot3.png)
 
 
 ## Getting Started
