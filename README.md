@@ -8,7 +8,6 @@ A React-based web application, leveraging Next.js for an enhanced development an
 - **Detailed Stock Information**: On clicking a stock, users are directed to a detailed page showcasing the company's overview, daily prices, and essential metrics like market capitalization.
 - **Responsive Design**: Ensures a seamless experience across various devices, making the application mobile-friendly.
 - **Visual Enhancements**: Includes company logos, a sophisticated loading animation, and a line graph charting the price history for an engaging user experience.
-- 
 ## Screenshots
 
 Here's a look at the application in action:
