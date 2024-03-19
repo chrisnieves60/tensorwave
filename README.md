@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tensorwave
+
+A React-based web application, leveraging Next.js for an enhanced development and user experience. It provides up-to-date information on a curated list of 15 stocks, fetched using the AlphaVantage API. Users can view stock details, including company overview and historical price data, in a user-friendly interface.
+
+## Features
+
+- **Stock Listings**: Displays 15 chosen stocks on the homepage in a visually appealing format (choose between Table, Tiles, or Cards).
+- **Detailed Stock Information**: On clicking a stock, users are directed to a detailed page showcasing the company's overview, daily prices, and essential metrics like market capitalization.
+- **Responsive Design**: Ensures a seamless experience across various devices, making the application mobile-friendly.
+- **Visual Enhancements**: Includes company logos, a sophisticated loading animation, and a line graph charting the price history for an engaging user experience.
 
 ## Getting Started
 
@@ -15,22 +24,3 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
