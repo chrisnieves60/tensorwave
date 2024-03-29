@@ -6,7 +6,7 @@ export default function Header() {
       <div className="container mx-auto">
         <Link href="/">
           <div className="text-white font-bold text-xl">
-            TensorWave Software Engineering Intern Coding Challenge
+            Stockify
           </div>
         </Link>
       </div>
